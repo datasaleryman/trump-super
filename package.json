@@ -1,0 +1,14 @@
+{
+  "name": "trump-super-intelligence",
+  "version": "1.0.0",
+  "description": "Trump Super Intelligence ($TSI): a community-powered onchain technology concept designed around intelligence, ambition and TESLA rewards.",
+  "type": "module",
+  "scripts": {
+    "dev": "PORT=3000 node server.js",
+    "start": "PORT=3000 node server.js",
+    "build": "echo 'Static build ready'"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

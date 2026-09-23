@@ -1,0 +1,8 @@
+{
+  "name": "Trump Super Intelligence — $TSI",
+  "description": "Trump Super Intelligence ($TSI): a community-powered onchain technology concept designed around intelligence, ambition and TESLA rewards.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
